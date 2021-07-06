@@ -9,7 +9,7 @@ def main():
    print '               create by badrun86551                  '
    print '================================================='
    print '               ++++++++++++++++++++              '
-   print '\n                                               '
+   print 'y\n                                               '
    print '  _,.                                            '
    print '                                                 '
    print '                                                 '
